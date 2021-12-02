@@ -213,8 +213,8 @@ config := &gmtls.Config{
 package main
 
 import (
-	"github.com/tjfoc/gmsm/gmtls"
-	"github.com/tjfoc/gmsm/x509"
+	"github.com/ypenghui6/gmsm/gmtls"
+	"github.com/ypenghui6/gmsm/x509"
 	"io/ioutil"
 )
 
@@ -255,8 +255,8 @@ func main() {
 package main
 
 import (
-	"github.com/tjfoc/gmsm/gmtls"
-	"github.com/tjfoc/gmsm/x509"
+	"github.com/ypenghui6/gmsm/gmtls"
+	"github.com/ypenghui6/gmsm/x509"
 	"io/ioutil"
 )
 
@@ -319,8 +319,8 @@ GCM模式下：
 package main
 
 import (
-	"github.com/tjfoc/gmsm/gmtls"
-	"github.com/tjfoc/gmsm/x509"
+	"github.com/ypenghui6/gmsm/gmtls"
+	"github.com/ypenghui6/gmsm/x509"
 	"io/ioutil"
 	"log"
 )

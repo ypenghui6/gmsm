@@ -34,7 +34,7 @@ tjfoc国密交流
 
 
 - 如果你对国密算法开源技术及应用感兴趣，欢迎添加“苏州同济区块链研究院·小助手“微信，回复“国密算法进群”，加入“同济区块链国密算法交流群”。微信二维码如下:  
-     ![微信二维码](https://github.com/tjfoc/wutongchian-public/blob/master/wutongchain.png)
+     ![微信二维码](https://github.com/ypenghui6/wutongchian-public/blob/master/wutongchain.png)
 
 - 发送邮件到tj@wutongchain.com
  

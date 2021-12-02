@@ -16,8 +16,8 @@ import (
 	"strconv"
 	"sync/atomic"
 
-	"github.com/tjfoc/gmsm/sm2"
-	"github.com/tjfoc/gmsm/x509"
+	"github.com/ypenghui6/gmsm/sm2"
+	"github.com/ypenghui6/gmsm/x509"
 )
 
 type clientHandshakeStateGM struct {
