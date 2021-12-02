@@ -7,7 +7,7 @@ package pkcs12
 import (
 	"encoding/base64"
 	"fmt"
-	"github.com/tjfoc/gmsm/sm2"
+	"github.com/ypenghui6/gmsm/sm2"
 	"testing"
 )
 
